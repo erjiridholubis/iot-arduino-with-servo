@@ -45,12 +45,12 @@ Servo servo;
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "JkXzMu-gykz6et7I8Ps6ids8SpsMqT_F";
+char auth[] = "YourAuthToken";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "stark";
-char pass[] = "mupala123456";
+char ssid[] = "YourNetworkName";
+char pass[] = "YourPassword";
 
 // Hardware Serial on Mega, Leonardo, Micro...
 #define EspSerial Serial1
